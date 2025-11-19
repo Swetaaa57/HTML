@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Page</title>
+</head>
+<body>
+    <a href="https://google.com"> Google </a>
+<br/>
+    <a href="https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=1"> Learn HTML from Youtube </a>
+<br/>
+<a href="index.html"> Go to Hello </a>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" alt="Avengers">
+</body>
+</html>
